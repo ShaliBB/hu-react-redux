@@ -1,6 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
+<<<<<<< HEAD
 import App from './applications/007_onChange_with_button/App';
+=======
+import App from './applications/501_App_layout_with_MUI/App';
+>>>>>>> 3b2f85a3336a1568b6049195a1c459accd5c262a
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
